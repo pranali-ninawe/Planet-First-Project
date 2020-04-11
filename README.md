@@ -1,4 +1,4 @@
-# PlanetFirstProject
+# Planet First Project
 Planet First is a platform which contains information regarding the climate changes all around the world.
 
 This project is based on React JS.
